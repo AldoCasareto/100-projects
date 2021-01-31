@@ -1,0 +1,22 @@
+body {
+    max-height: 100vh;
+    max-width: 100vh;
+}
+
+button:hover {
+    color: orange;
+}
+
+.center, #color-code {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+  }
+
+  button {
+      font-size: 20px;
+  }
+
+  #color-code {
+      font-size: 30px;
+  }
